@@ -2,26 +2,31 @@
     {
       "korean": "가격 ",
       "myanmar": "ဈေးနှုန်း",
-      "english": "price"
+      "english": "price",
+      "category":"family"
     },
     {
       "korean": "가깝다",
       "myanmar": "နီးကပ်သည်",
-      "english": "to be close"
+      "english": "to be close",
+      "category":"family"
     },
     {
       "korean": "가끔",
       "myanmar": "တစ်ခါတစ်လေ",
-      "english": "occasionally"
+      "english": "occasionally",
+      "category":"family"
     },
     {
       "korean": "가능하다",
       "myanmar": " ဖြစ်နိုင်သည်",
-      "english": "to be possible"
+      "english": "to be possible",
+      "category":"family"
     },
     {
       "korean": "가방",
       "myanmar": "လွယ်အိတ်",
-      "english": "bag"
+      "english": "bag",
+      "category":"family"
     }
   ]
