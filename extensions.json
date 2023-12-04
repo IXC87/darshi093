@@ -1,5 +1,6 @@
 [
   {
+    "api":true,
     "name":"Naver",
     "link":"https://korean.dict.naver.com/api3/koen/search?query=",
     "header":"https://korean.dict.naver.com/koendict/"
@@ -7,6 +8,7 @@
     "related_words":"https://korean.dict.naver.com/api3/koen/relationSearch?query="
   },
   {
+    "api":false,
     "name":"Google Translate",
     "link":"https://translate.google.com/?sl=auto&tl=ko&op=translate",
     "header":"null"
