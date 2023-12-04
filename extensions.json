@@ -3,7 +3,7 @@
     "api":true,
     "name":"Naver",
     "link":"https://korean.dict.naver.com/api3/koen/search?query=",
-    "header":"https://korean.dict.naver.com/koendict/"
+    "header":"https://korean.dict.naver.com/koendict/",
     "icon":"https://ssl.pstatic.net/dicimg/favicons/dict/v5/mhome/favicon.ico",
     "related_words":"https://korean.dict.naver.com/api3/koen/relationSearch?query="
   },
@@ -11,7 +11,7 @@
     "api":false,
     "name":"Google Translate",
     "link":"https://translate.google.com/?sl=auto&tl=ko&op=translate",
-    "header":"null"
+    "header":"null",
     "icon":"https://ssl.gstatic.com/translate/favicon.ico",
     "related_words":"null"
   }
