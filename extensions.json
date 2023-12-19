@@ -1,50 +1,50 @@
 [
   {
     "api":true,
-    "name":"Naver",
+    "name":"Darshi",
     "link":"https://korean.dict.naver.com/api3/koen/search?query=",
     "header":"https://korean.dict.naver.com/koendict/",
-    "icon":"https://ssl.pstatic.net/dicimg/favicons/dict/v5/mhome/favicon.ico",
+    "icon":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSeXK76Y4wcYxigWmxQz0JNPtUlt3waGdI6vEpTrYDAuaWULCNLeIGh3ocd3PpAx6NZUowNUwKYeRlI3dhEFfeYxYP92IWhmie38ZP5OH3CuwIHYAkV9lUYSfuECjeaKzgRJTnKxd21EZvh591NcCeqK1uEA8D2PTfU-bkf_qwGXVxsrkmv5WDXBctlD7/s1600/darshi.png",
     "related_words":"https://korean.dict.naver.com/api3/koen/relationSearch?query="
   },
   {
     "api":false,
+    "name":"Naver",
+    "link":"https://korean.dict.naver.com/api3/koen/search?query=",
+    "header":"null",
+    "icon":"https://ssl.pstatic.net/dicimg/favicons/dict/v5/mhome/favicon.ico",
+    "related_words":"null"
+  },
+  {
+    "api":false,
     "name":"Google Translate",
-    "link":"https://translate.google.com/?sl=auto&tl=ko&op=translate",
+    "link":"https://translate.google.com/?sl=auto&tl=ko&text=",
     "header":"null",
     "icon":"https://ssl.gstatic.com/translate/favicon.ico",
     "related_words":"null"
   },
   {
-    "api":true,
-    "name":"Naver",
-    "link":"https://korean.dict.naver.com/api3/koen/search?query=",
-    "header":"https://korean.dict.naver.com/koendict/",
-    "icon":"https://ssl.pstatic.net/dicimg/favicons/dict/v5/mhome/favicon.ico",
-    "related_words":"https://korean.dict.naver.com/api3/koen/relationSearch?query="
+    "api":false,
+    "name":"Papago",
+    "link":"https://papago.naver.com/?sk=auto&tk=ko&st=",
+    "header":"null",
+    "icon":"https://papago.naver.com/97ec80a681e94540414daf2fb855ba3b.svg",
+    "related_words":"null"
   },
   {
     "api":false,
-    "name":"Google Translate",
-    "link":"https://translate.google.com/?sl=auto&tl=ko&op=translate",
+    "name":"DAUM",
+    "link":"https://dic.daum.net/search.do?q=",
     "header":"null",
     "icon":"https://ssl.gstatic.com/translate/favicon.ico",
     "related_words":"null"
   },
   {
-    "api":true,
-    "name":"Naver",
-    "link":"https://korean.dict.naver.com/api3/koen/search?query=",
-    "header":"https://korean.dict.naver.com/koendict/",
-    "icon":"https://ssl.pstatic.net/dicimg/favicons/dict/v5/mhome/favicon.ico",
-    "related_words":"https://korean.dict.naver.com/api3/koen/relationSearch?query="
-  },
-  {
     "api":false,
-    "name":"Google Translate",
-    "link":"https://translate.google.com/?sl=auto&tl=ko&op=translate",
+    "name":"Wiktionary",
+    "link":"https://ko.wiktionary.org/wiki/",
     "header":"null",
-    "icon":"https://ssl.gstatic.com/translate/favicon.ico",
+    "icon":"https://ko.wiktionary.org/static/images/icons/wiktionary.svg",
     "related_words":"null"
   }
 ]
