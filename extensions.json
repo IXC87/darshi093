@@ -10,7 +10,7 @@
   {
     "api":false,
     "name":"Naver",
-    "link":"https://korean.dict.naver.com/api3/koen/search?query=",
+    "link":"https://korean.dict.naver.com/koendict/#/search?query=",
     "header":"null",
     "icon":"https://ssl.pstatic.net/dicimg/favicons/dict/v5/mhome/favicon.ico",
     "related_words":"null"
@@ -18,7 +18,7 @@
   {
     "api":false,
     "name":"Google Translate",
-    "link":"https://translate.google.com/?sl=auto&tl=ko&text=",
+    "link":"https://translate.google.com/?sl=auto&tl=en&text=",
     "header":"null",
     "icon":"https://ssl.gstatic.com/translate/favicon.ico",
     "related_words":"null"
@@ -26,7 +26,7 @@
   {
     "api":false,
     "name":"Papago",
-    "link":"https://papago.naver.com/?sk=auto&tk=ko&st=",
+    "link":"https://papago.naver.com/?sk=auto&tk=en&st=",
     "header":"null",
     "icon":"https://papago.naver.com/97ec80a681e94540414daf2fb855ba3b.svg",
     "related_words":"null"
