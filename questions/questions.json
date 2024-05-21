@@ -12,7 +12,7 @@
             "audio_link" : "null",
             "translated_mm" : "null",
             "translated_eng" : "null",
-            "answer" : 1,
+            "answer" : 4,
             "listening" : true,
             "chapter" : "null"
         },
@@ -57,7 +57,7 @@
             "audio_link" : "null",
             "translated_mm" : "null",
             "translated_eng" : "null",
-            "answer" : 3,
+            "answer" : 4,
             "listening" : true,
             "chapter" : "null"
         },
@@ -72,7 +72,7 @@
             "audio_link" : "null",
             "translated_mm" : "null",
             "translated_eng" : "null",
-            "answer" : 4,
+            "answer" : 2,
             "listening" : true,
             "chapter" : "null"
         },
@@ -117,7 +117,7 @@
             "audio_link" : "null",
             "translated_mm" : "null",
             "translated_eng" : "null",
-            "answer" : 1,
+            "answer" : 3,
             "listening" : true,
             "chapter" : "null"
         },
@@ -151,8 +151,6 @@
             "listening" : true,
             "chapter" : "null"
         }
-    
-
     ],
 
     "list2" : 
@@ -622,6 +620,164 @@
 
 
     ],
+
+    "l_extra" : 
+    [
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIE7JbFLq0py7o1f07wG4WzKCUiQW_0D5uSjbM_rJlx4VST65-k4m0ELEcgD2iEDmyZ_zFcUPGwB4msfk4Dh7yYoPBcwZN1BS-n79pcOvh3-k1j1V5NTQnB3o423b67X_e3a3tUy5cMycPDupwLFVGFk52xTKMwk68RSW9-B6ZsbJDRPiXDtr4-9xDMcHJ/s0/LExtra-%20at%205.35.52%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 3,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAmvKdIHcWw091UWusZJEcCEvo0nShjxyPDpFzPcLWSd41Z_xcWMLi_zrZ-MuRN0vIMMvkhAgVkFqA3jf728f6zpVRAUvkOlBOp0XVyRS-nGRVoRUPrWth7ztPoaz8ellc_dCNOVuiNtA_-CFyI-MW61z4DgmnffcI1lISA-6qOTRVrcmcF82DsCg0EOe/s0/LExtra-%20at%205.36.01%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 4,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheZ6CJd8htgqLdsttEJaLUJ7kvFnQsMqy7HpsRRX6fTnE5ME3ZShZBPhjx_GuhPufMWrGmXFTsSdlNeIJRdf0v52lK1xwsWjNy8zA4bBKn28Y4OtNKPEz7TKLe9tgre7jwbvNiTLMvfOlvetPzx802_o1pj6MrnQLTj_kOyhIe13sJdBmwQHLSiFVxaEnN/s0/LExtra-%20at%205.36.08%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 3,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIqBI4OzELYWqW-Mawhk45FEIf3AxtHXCph6Kwd04TGqYyTVywRt6-1Re68R5UmowgOKM0MkKuxlfCo3LizWiWRE6Ga9fD1gPnRVA4RNy1O7O2hfSowu7SV2taSwbuKCxaL3HWztMnsmJaCWOUUvpfxGA9ruvN07ETgMvej2vn8GjhAQomzfXTqfQNsT0H/s0/LExtra-%20at%205.36.17%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 2,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimMwnioSE3dVBhqu7nb-b9M3tasoSCHcHbcrw6XSgdApAdiC3KVpjqURW4E5dAvc4hdNIoJ_L3F2py5bHOJhilqceGS1Z6yxD6I-e_f1qoSQSMJE1Ve6gfI09jQr88CdEUV8owIYEZq6CYfZW5TQRcvMrbpddEW44mbyqQdGDAF_JM2RO2kb2baVRPFAfk/s0/LExtra-%20at%205.36.22%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 1,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh58FRk8lIk0WunNMIhAgxFIH4Hvi7QXbRvYRqAm5D_TqzaJkNnHuN6RXyuxQcW9UtI9Uibi0xSxMaO9k2LgDb56vjm-VMVX9chFjx_BOh5fUBgdO2h3SaKyvwHk7Ap_yTT4k1KxOZ_W_dImlflykCow9tokwFs6Z8so06hR6EmU8frDF9WqDjuOclQDlzf/s0/LExtra-%20at%205.36.29%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 2,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFM9nLkHCougwe_wDpVaeOqWN40Eg-9sl35SFAhQyaA1R4Zx65RnZEf5NLZA1FF34YYdGpTf-LSvZsAYxF36N1n0jBYQLmwG_Ff5S7VfuCSzZVYQM10R7p_cb1kEVdfFQGYyTOX6ncgoczYuNZ8e0jIh-KJz3SxA7KEYQ8g3o_A9v-GQIVApArGfUiaQ16/s0/LExtra-%20at%205.36.34%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 4,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbSPvA0-VVfEL9CqV06idFHnnQEl7x2uAnnXzE0Y1q5fGfwQPyc3Lgiuhq-7nxB_i8m7Fob1HOo5VTimsiBoXxPUasohqcgxPlUzRuNMEktw3_WrHde8iN_XrtxB1kCTIRhXvOXHr0y2Sx8Ll0CScjKsjvc6zmOnfcSzyiPjqeHENQl90JoqoCRf0zVupT/s0/LExtra-%20at%205.36.41%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 2,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELOfK-dF8Gxa2hAnZiDJIUjEmS1bztq74XppmvhpHrUqYtG5GxDrMPPgaYFoCdkLKlnTGKR3Nl-KDbQ80XHJZtQHQBLr0q2aS7odB_a2JVD7mgT5tztn8LEIkGWe9_2o1WZOiLrZc-9oVZpfBXY9A1MI3PvXADbR-KUlnKfTr602whuVgy2JCht9hwRKR/s0/LExtra-%20at%205.36.47%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 3,
+            "listening" : true,
+            "chapter" : "null"
+        },
+        {
+            "question" : "null",
+            "choice1"  : "null",
+            "choice2"  : "null",
+            "choice3"  : "null",
+            "choice4"  : "null",
+            "country"     : "null",
+            "image_link" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxg1TZe1hXmQVReFYO6x4apL3kXuq5nZuMNEEcecmBggyqIFh1a3-Y20e0noaU8_xDGUBYXx1vJwX-leajhZ05SyL3qCtBr2NotcB6JPUV_hhhPZFHntuj9hEOSQjCiCp6qo9JsSM0fYzzxnU91Yfzpapa2bo7HLO32oxRDu-X0wTC6neK3HjAhYCA3Hc6/s0/LExtra-%20at%205.36.53%E2%80%AFPM.png",
+            "audio_link" : "null",
+            "translated_mm" : "null",
+            "translated_eng" : "null",
+            "answer" : 1,
+            "listening" : true,
+            "chapter" : "null"
+        }
+
+
+
+    ],
+
 
     "read1" : 
     [
